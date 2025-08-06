@@ -5,7 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/davi_bianchiayres/)
 
-### Faz pouco tempo que uso o GitHub, mas ainda estou aprendendo
+### Faz pouco tempo que uso o GitHub, mas ainda estou aprendendo!
+
 
 
 
