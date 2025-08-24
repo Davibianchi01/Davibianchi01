@@ -6,8 +6,8 @@
 )](https://www.instagram.com/davi_bianchiayres/)
 
 
-<h3 align="center">📊 Minhas estatísticas</h3>
-<p align="center">
+<h3 align=>📊 Minhas estatísticas</h3>
+<p align=>
   <img 
     height="160" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davibianchi01&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
