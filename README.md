@@ -16,4 +16,30 @@
 </p>
 
 
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: GeovanaBlasius
+          outputs: dist/github-contribution-grid-snake.svg
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist/github-contribution-grid-snake.svg
+      - name: Push to output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: output
+          message: "Generate snake animation"
+          add: "dist/*.svg"
 
