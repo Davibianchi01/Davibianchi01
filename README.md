@@ -1,6 +1,6 @@
 ### Davi Bianchi!👋
 
-Meu nome é Davi Bianchi Ayres, tenho 19 anos e sou natural do Rio de Janeiro. Atualmente, moro em Rio do Sul (SC), onde curso Bacharelado em Ciência da Computação. Faço parte da equipe da Cubus Soluções, empresa especializada no desenvolvimento de sistemas customizados para automação da engenharia e atuo na área comercial e de pré-vendas.
+Sou o Davi Bianchi Ayres, tenho 19 anos e sou natural do Rio de Janeiro. Atualmente, moro em Rio do Sul (SC), onde curso Bacharelado em Ciência da Computação. Faço parte da equipe da Cubus Soluções, empresa especializada no desenvolvimento de sistemas customizados para automação da engenharia e atuo como pré-vendedor na área comercial.
 
 ---
 
